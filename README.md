@@ -17,3 +17,5 @@ Para acessar a API é necessário criar um clone deste repositório, e dentro do
 5º comando (Sempre que quiser rodar a API): npm run dev 
 
 Se no terminal surgir "app listenning at port: 3333" a API está rodando. 
+
+Repositório da aplicação Kenzie Pets: https://github.com/DaviSouzaS/kenzie-pets
